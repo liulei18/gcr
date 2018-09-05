@@ -1,1 +1,1 @@
-From gcr.io/google-containers/example-guestbook-php-redis
+From gcr.io/google-containers/example-guestbook-php-redis:v3
